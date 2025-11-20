@@ -57,4 +57,4 @@ administrator/notif.php
 
 ### **This is a similar question, you can take a look at this.**
 
-[upload 1.md](upload 1.md) 
+[upload 1.md](https://github.com/Yohane-Mashiro/cve/blob/main/upload%201.md) 
