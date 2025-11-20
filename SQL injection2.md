@@ -8,8 +8,6 @@
 
 ### Product and Version Affected
 
-
-
 - **Product Name:** BLOG_SITE_IN_PHP_WITH_SOURCE_CODE
 - **Affected File:** resources/functions/blog.php , edit_post.php
 

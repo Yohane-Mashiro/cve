@@ -6,6 +6,9 @@
 
 ### Vulnerability Summary
 
+- **Product Name:** Online Bidding System In PHP With Source Code
+- **Affected File:** 
+
 **Unauthorized access to the sensitive `admin.php` page, allowing any user to perform administrative operations or view sensitive information without prior authentication.**
 
 
