@@ -15,7 +15,7 @@
 
 
 - **Product Name:** BLOG_SITE_IN_PHP_WITH_SOURCE_CODE
-- **Affected File:** admin.php
+- **Affected File:** admin.php,add_category.php,add_post.php,category_list.php,category.php,delete_category.php,delete_post.php,edit_post.php,manage_category.php,manage_post.php
 
 
 
@@ -31,8 +31,6 @@ This can lead to the following consequences:
 
 1. An unauthorized user can directly view the administrative dashboard.
 2. An unauthorized user can call administrative functions defined within `admin.php` or its included files (e.g., via crafted HTTP GET/POST requests), potentially leading to data leakage, system configuration changes, or content compromise.
-
-![image-20251120211347856](./Unauthorized.assets/image-20251120211347856.png)
 
 ### Suggested Fixes
 
